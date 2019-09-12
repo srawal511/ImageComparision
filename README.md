@@ -1,7 +1,7 @@
 # ImageComparision
 
 The idea is to compare N pairs of images given in CSV file Using Java as a programming language by resulting another CSV file showing their similarity where 0 means the image are exact same.
-It also give informtion on time taken for each comparision.
+It also give informtion on time taken for each comparision in Milliseconds (there is typing error for the name of column as it says in seconds instead of Milliseconds)
 Code is testes and works perfectly without using any external library and can be run in a simplest way.
 Process of using application can be taught to any non technical person by giving small demo and active help in prior stages while using this appliaction.
 The maintainer of application (Ferris) has to have detail knowledge about the logic and idea behind this algorithm. 
